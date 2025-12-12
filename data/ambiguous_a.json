@@ -1,0 +1,806 @@
+[
+  {
+    "page_id": "f1r",
+    "paragraph_idx": 0,
+    "line_idx": 3,
+    "line_id": "f1r.4",
+    "token_idx": 4,
+    "raw": "cth?ar",
+    "clean": "cth?ar",
+    "currier": "a",
+    "prev": "roloty",
+    "next": "daiin",
+    "candidates": []
+  },
+  {
+    "page_id": "f1r",
+    "paragraph_idx": 1,
+    "line_idx": 0,
+    "line_id": "f1r.7",
+    "token_idx": 0,
+    "raw": "<%>?",
+    "clean": "?",
+    "currier": "a",
+    "prev": null,
+    "next": "odar",
+    "candidates": [
+      {
+        "form": "s",
+        "score": 0.31298037175566273,
+        "freq": 82,
+        "word_prior": 0.31297709923664124,
+        "char_score": 0.0,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.12739063417950142,
+        "conf_gap": 1.182864371050708
+      },
+      {
+        "form": "y",
+        "score": 0.1450414404579528,
+        "freq": 38,
+        "word_prior": 0.1450381679389313,
+        "char_score": 0.0,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.10769673780575346,
+        "conf_gap": 1.182864371050708
+      },
+      {
+        "form": "r",
+        "score": 0.0801559442747467,
+        "freq": 21,
+        "word_prior": 0.08015267175572519,
+        "char_score": 0.0,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.10093066519442302,
+        "conf_gap": 1.182864371050708
+      },
+      {
+        "form": "o",
+        "score": 0.03435441755718946,
+        "freq": 9,
+        "word_prior": 0.03435114503816794,
+        "char_score": 0.0,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.09641215387035086,
+        "conf_gap": 1.182864371050708
+      },
+      {
+        "form": "d",
+        "score": 0.03435441755718946,
+        "freq": 9,
+        "word_prior": 0.03435114503816794,
+        "char_score": 0.0,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.09641215387035086,
+        "conf_gap": 1.182864371050708
+      }
+    ]
+  },
+  {
+    "page_id": "f1r",
+    "paragraph_idx": 2,
+    "line_idx": 0,
+    "line_id": "f1r.11",
+    "token_idx": 0,
+    "raw": "<%>?",
+    "clean": "?",
+    "currier": "a",
+    "prev": null,
+    "next": "ydain",
+    "candidates": [
+      {
+        "form": "s",
+        "score": 0.31298037175566273,
+        "freq": 82,
+        "word_prior": 0.31297709923664124,
+        "char_score": 0.0,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.12739063417950142,
+        "conf_gap": 1.182864371050708
+      },
+      {
+        "form": "y",
+        "score": 0.1450414404579528,
+        "freq": 38,
+        "word_prior": 0.1450381679389313,
+        "char_score": 0.0,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.10769673780575346,
+        "conf_gap": 1.182864371050708
+      },
+      {
+        "form": "r",
+        "score": 0.0801559442747467,
+        "freq": 21,
+        "word_prior": 0.08015267175572519,
+        "char_score": 0.0,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.10093066519442302,
+        "conf_gap": 1.182864371050708
+      },
+      {
+        "form": "o",
+        "score": 0.03435441755718946,
+        "freq": 9,
+        "word_prior": 0.03435114503816794,
+        "char_score": 0.0,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.09641215387035086,
+        "conf_gap": 1.182864371050708
+      },
+      {
+        "form": "d",
+        "score": 0.03435441755718946,
+        "freq": 9,
+        "word_prior": 0.03435114503816794,
+        "char_score": 0.0,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.09641215387035086,
+        "conf_gap": 1.182864371050708
+      }
+    ]
+  },
+  {
+    "page_id": "f1r",
+    "paragraph_idx": 3,
+    "line_idx": 0,
+    "line_id": "f1r.22",
+    "token_idx": 9,
+    "raw": "d?",
+    "clean": "d?",
+    "currier": "a",
+    "prev": "ro",
+    "next": "?doin",
+    "candidates": [
+      {
+        "form": "dy",
+        "score": 0.21432618634414036,
+        "freq": 54,
+        "word_prior": 0.20610687022900764,
+        "char_score": 0.020531927692724158,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.16947757634585028,
+        "conf_gap": 1.2034523045232286
+      },
+      {
+        "form": "do",
+        "score": 0.029131838326285537,
+        "freq": 7,
+        "word_prior": 0.026717557251908396,
+        "char_score": 0.0060193400908352636,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.14082616777158774,
+        "conf_gap": 1.2034523045232286
+      },
+      {
+        "form": "da",
+        "score": 0.025655200245871004,
+        "freq": 3,
+        "word_prior": 0.011450381679389313,
+        "char_score": 0.03549568382109664,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.1403374162523614,
+        "conf_gap": 1.2034523045232286
+      }
+    ]
+  },
+  {
+    "page_id": "f1r",
+    "paragraph_idx": 3,
+    "line_idx": 1,
+    "line_id": "f1r.23",
+    "token_idx": 0,
+    "raw": "?doin",
+    "clean": "?doin",
+    "currier": "a",
+    "prev": "d?",
+    "next": "chol",
+    "candidates": []
+  },
+  {
+    "page_id": "f1r",
+    "paragraph_idx": 3,
+    "line_idx": 2,
+    "line_id": "f1r.24",
+    "token_idx": 0,
+    "raw": "cho?o",
+    "clean": "cho?o",
+    "currier": "a",
+    "prev": "cthar",
+    "next": "kaiin",
+    "candidates": []
+  },
+  {
+    "page_id": "f1r",
+    "paragraph_idx": 3,
+    "line_idx": 3,
+    "line_id": "f1r.25",
+    "token_idx": 6,
+    "raw": "??chol",
+    "clean": "??chol",
+    "currier": "a",
+    "prev": "kokaiin",
+    "next": "k??chy",
+    "candidates": [
+      {
+        "form": "otchol",
+        "score": 0.07363326466386047,
+        "freq": 16,
+        "word_prior": 0.061068702290076333,
+        "char_score": 0.03139504333935275,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.13097614859887372,
+        "conf_gap": 1.0464989264214615
+      },
+      {
+        "form": "okchol",
+        "score": 0.028183026589305892,
+        "freq": 4,
+        "word_prior": 0.015267175572519083,
+        "char_score": 0.032273264946859434,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.1251565053293315,
+        "conf_gap": 1.0464989264214615
+      },
+      {
+        "form": "ykchol",
+        "score": 0.02711924152141239,
+        "freq": 4,
+        "word_prior": 0.015267175572519083,
+        "char_score": 0.029613802277125678,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.12502343649867875,
+        "conf_gap": 1.0464989264214615
+      }
+    ]
+  },
+  {
+    "page_id": "f1r",
+    "paragraph_idx": 3,
+    "line_idx": 3,
+    "line_id": "f1r.25",
+    "token_idx": 7,
+    "raw": "k??chy",
+    "clean": "k??chy",
+    "currier": "a",
+    "prev": "??chol",
+    "next": "dal",
+    "candidates": []
+  },
+  {
+    "page_id": "f1r",
+    "paragraph_idx": 3,
+    "line_idx": 4,
+    "line_id": "f1r.26",
+    "token_idx": 0,
+    "raw": "d?eeo",
+    "clean": "d?eeo",
+    "currier": "a",
+    "prev": "dal",
+    "next": "shody",
+    "candidates": []
+  },
+  {
+    "page_id": "f1r",
+    "paragraph_idx": 3,
+    "line_idx": 5,
+    "line_id": "f1r.27",
+    "token_idx": 0,
+    "raw": "?eo",
+    "clean": "?eo",
+    "currier": "a",
+    "prev": "chtor",
+    "next": "chol",
+    "candidates": []
+  },
+  {
+    "page_id": "f3r",
+    "paragraph_idx": 0,
+    "line_idx": 8,
+    "line_id": "f3r.9",
+    "token_idx": 1,
+    "raw": "?or",
+    "clean": "?or",
+    "currier": "a",
+    "prev": "sho",
+    "next": "sheoldam",
+    "candidates": [
+      {
+        "form": "dor",
+        "score": 0.09942201287199068,
+        "freq": 25,
+        "word_prior": 0.09541984732824428,
+        "char_score": 0.009989051264258399,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.11955714577360102,
+        "conf_gap": 1.0667096632887525
+      },
+      {
+        "form": "kor",
+        "score": 0.03484318214690379,
+        "freq": 8,
+        "word_prior": 0.030534351145038167,
+        "char_score": 0.010755714909556485,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.1120803061607822,
+        "conf_gap": 1.0667096632887525
+      },
+      {
+        "form": "sor",
+        "score": 0.030112392778847363,
+        "freq": 7,
+        "word_prior": 0.026717557251908396,
+        "char_score": 0.008470726222239829,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.11155133006383225,
+        "conf_gap": 1.0667096632887525
+      },
+      {
+        "form": "tor",
+        "score": 0.019409590779144215,
+        "freq": 4,
+        "word_prior": 0.015267175572519083,
+        "char_score": 0.01033967542145524,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.11036378463324634,
+        "conf_gap": 1.0667096632887525
+      },
+      {
+        "form": "lor",
+        "score": 0.014741729616809775,
+        "freq": 3,
+        "word_prior": 0.011450381679389313,
+        "char_score": 0.00821200724844357,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.10984982229487135,
+        "conf_gap": 1.0667096632887525
+      }
+    ]
+  },
+  {
+    "page_id": "f5r",
+    "paragraph_idx": 0,
+    "line_idx": 1,
+    "line_id": "f5r.2",
+    "token_idx": 7,
+    "raw": "oka?or",
+    "clean": "oka?or",
+    "currier": "a",
+    "prev": "chey",
+    "next": "otol",
+    "candidates": []
+  },
+  {
+    "page_id": "f6v",
+    "paragraph_idx": 1,
+    "line_idx": 4,
+    "line_id": "f6v.10",
+    "token_idx": 0,
+    "raw": "qokche?",
+    "clean": "qokche?",
+    "currier": "a",
+    "prev": "s",
+    "next": "ychear",
+    "candidates": [
+      {
+        "form": "qokchey",
+        "score": 0.02438763877354811,
+        "freq": 4,
+        "word_prior": 0.015267175572519083,
+        "char_score": 0.022784795407464982,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.3359383358805731,
+        "conf_gap": 1.0111300803150012
+      }
+    ]
+  },
+  {
+    "page_id": "f11v",
+    "paragraph_idx": 0,
+    "line_idx": 2,
+    "line_id": "f11v.3",
+    "token_idx": 4,
+    "raw": "?ar",
+    "clean": "?ar",
+    "currier": "a",
+    "prev": "tchy",
+    "next": "qokchd",
+    "candidates": [
+      {
+        "form": "dar",
+        "score": 0.21639024119878028,
+        "freq": 55,
+        "word_prior": 0.2099236641221374,
+        "char_score": 0.016150080096499594,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.14920932721379276,
+        "conf_gap": 1.206332899849222
+      },
+      {
+        "form": "sar",
+        "score": 0.028805143419257908,
+        "freq": 7,
+        "word_prior": 0.026717557251908396,
+        "char_score": 0.005202602823266189,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.12368835091246053,
+        "conf_gap": 1.206332899849222
+      },
+      {
+        "form": "kar",
+        "score": 0.014275901348240784,
+        "freq": 3,
+        "word_prior": 0.011450381679389313,
+        "char_score": 0.007047436577021093,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.12190424515799798,
+        "conf_gap": 1.206332899849222
+      }
+    ]
+  },
+  {
+    "page_id": "f15v",
+    "paragraph_idx": 0,
+    "line_idx": 1,
+    "line_id": "f15v.2",
+    "token_idx": 0,
+    "raw": "?chor",
+    "clean": "?chor",
+    "currier": "a",
+    "prev": "dy",
+    "next": "or",
+    "candidates": [
+      {
+        "form": "dchor",
+        "score": 0.06631158307673564,
+        "freq": 14,
+        "word_prior": 0.05343511450381679,
+        "char_score": 0.03217480883718951,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.12926900294912008,
+        "conf_gap": 1.018281510787914
+      },
+      {
+        "form": "kchor",
+        "score": 0.04819516896789321,
+        "freq": 9,
+        "word_prior": 0.03435114503816794,
+        "char_score": 0.03459369722920559,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.1269481979668506,
+        "conf_gap": 1.018281510787914
+      },
+      {
+        "form": "ychor",
+        "score": 0.043291748832563086,
+        "freq": 8,
+        "word_prior": 0.030534351145038167,
+        "char_score": 0.031877131623704716,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.12632724126675468,
+        "conf_gap": 1.018281510787914
+      },
+      {
+        "form": "tchor",
+        "score": 0.03289769557766795,
+        "freq": 5,
+        "word_prior": 0.019083969465648856,
+        "char_score": 0.034436139709402236,
+        "context_score": 0.00019635114129100878,
+        "conf_abs": 0.12502098957849023,
+        "conf_gap": 1.018281510787914
+      }
+    ]
+  },
+  {
+    "page_id": "f17r",
+    "paragraph_idx": 1,
+    "line_idx": 0,
+    "line_id": "f17r.4",
+    "token_idx": 0,
+    "raw": "<%>tcho?",
+    "clean": "tcho?",
+    "currier": "a",
+    "prev": null,
+    "next": "shol",
+    "candidates": [
+      {
+        "form": "tchor",
+        "score": 0.03286169786843127,
+        "freq": 5,
+        "word_prior": 0.019083969465648856,
+        "char_score": 0.034436139709402236,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.3356041925189583,
+        "conf_gap": 1.002981040458905
+      },
+      {
+        "form": "tchol",
+        "score": 0.02988509089690965,
+        "freq": 4,
+        "word_prior": 0.015267175572519083,
+        "char_score": 0.03653660701342262,
+        "context_score": 1.6362595107584065e-05,
+        "conf_abs": 0.33460671602406455,
+        "conf_gap": 1.002981040458905
+      }
+    ]
+  },
+  {
+    "page_id": "f17r",
+    "paragraph_idx": 2,
+    "line_idx": 3,
+    "line_id": "f17r.10",
+    "token_idx": 3,
+    "raw": "?ain",
+    "clean": "?ain",
+    "currier": "a",
+    "prev": "dsheor",
+    "next": "y",
+    "candidates": [
+      {
+        "form": "dain",
+        "score": 0.17155893610146072,
+        "freq": 42,
+        "word_prior": 0.16030534351145037,
+        "char_score": 0.028117618879918323,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.16332187475434898,
+        "conf_gap": 1.1615252342149367
+      },
+      {
+        "form": "sain",
+        "score": 0.021824936407409744,
+        "freq": 4,
+        "word_prior": 0.015267175572519083,
+        "char_score": 0.01637803949211906,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.14060983761152132,
+        "conf_gap": 1.1615252342149367
+      }
+    ]
+  },
+  {
+    "page_id": "f24r",
+    "paragraph_idx": 0,
+    "line_idx": 9,
+    "line_id": "f24r.10",
+    "token_idx": 0,
+    "raw": "q?or",
+    "clean": "q?or",
+    "currier": "a",
+    "prev": "dal",
+    "next": "cfhar",
+    "candidates": [
+      {
+        "form": "qoor",
+        "score": 0.01496275670133652,
+        "freq": 3,
+        "word_prior": 0.011450381679389313,
+        "char_score": 0.008764574959760435,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.5022738314149464,
+        "conf_gap": 1.0091368760777801
+      }
+    ]
+  },
+  {
+    "page_id": "f31r",
+    "paragraph_idx": 0,
+    "line_idx": 3,
+    "line_id": "f31r.4",
+    "token_idx": 8,
+    "raw": "ch?d?",
+    "clean": "ch?d?",
+    "currier": "a",
+    "prev": "keeol",
+    "next": "qokey",
+    "candidates": [
+      {
+        "form": "chody",
+        "score": 0.08940459327929078,
+        "freq": 20,
+        "word_prior": 0.07633587786259542,
+        "char_score": 0.032655425946630796,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.17623930575385136,
+        "conf_gap": 1.0311668110943004
+      },
+      {
+        "form": "chedy",
+        "score": 0.05871360486498012,
+        "freq": 13,
+        "word_prior": 0.04961832061068702,
+        "char_score": 0.022721848040625166,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.17091250773004382,
+        "conf_gap": 1.0311668110943004
+      }
+    ]
+  },
+  {
+    "page_id": "f67r2",
+    "paragraph_idx": 0,
+    "line_idx": 3,
+    "line_id": "f67r2.4",
+    "token_idx": 1,
+    "raw": "?ykor",
+    "clean": "?ykor",
+    "currier": "a",
+    "prev": "shekchy",
+    "next": "ykeody",
+    "candidates": []
+  },
+  {
+    "page_id": "f67r2",
+    "paragraph_idx": 11,
+    "line_idx": 4,
+    "line_id": "f67r2.51",
+    "token_idx": 0,
+    "raw": "dacsa?ry?<$>",
+    "clean": "dacsa?ry?",
+    "currier": "a",
+    "prev": "sar",
+    "next": null,
+    "candidates": []
+  },
+  {
+    "page_id": "f67v2",
+    "paragraph_idx": 4,
+    "line_idx": 7,
+    "line_id": "f67v2.18",
+    "token_idx": 0,
+    "raw": "o?eeey",
+    "clean": "o?eeey",
+    "currier": "a",
+    "prev": "ocfhhy",
+    "next": "oekchdy",
+    "candidates": []
+  },
+  {
+    "page_id": "f67v1",
+    "paragraph_idx": 0,
+    "line_idx": 5,
+    "line_id": "f67v1.6",
+    "token_idx": 0,
+    "raw": "dch?sykchy",
+    "clean": "dch?sykchy",
+    "currier": "a",
+    "prev": "okolaldy",
+    "next": "ykeodar",
+    "candidates": []
+  },
+  {
+    "page_id": "f67v1",
+    "paragraph_idx": 0,
+    "line_idx": 13,
+    "line_id": "f67v1.14",
+    "token_idx": 2,
+    "raw": "?eoky",
+    "clean": "?eoky",
+    "currier": "a",
+    "prev": "cheody",
+    "next": "otechodor",
+    "candidates": []
+  },
+  {
+    "page_id": "f89r1",
+    "paragraph_idx": 4,
+    "line_idx": 0,
+    "line_id": "f89r1.19",
+    "token_idx": 2,
+    "raw": "?oaithy",
+    "clean": "?oaithy",
+    "currier": "a",
+    "prev": "sheo",
+    "next": "cheoepey",
+    "candidates": []
+  },
+  {
+    "page_id": "f89v2",
+    "paragraph_idx": 3,
+    "line_idx": 1,
+    "line_id": "f89v2.16",
+    "token_idx": 4,
+    "raw": "?ain",
+    "clean": "?ain",
+    "currier": "a",
+    "prev": "s",
+    "next": "ykeody",
+    "candidates": [
+      {
+        "form": "dain",
+        "score": 0.17155893610146072,
+        "freq": 42,
+        "word_prior": 0.16030534351145037,
+        "char_score": 0.028117618879918323,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.16332187475434898,
+        "conf_gap": 1.1615252342149367
+      },
+      {
+        "form": "sain",
+        "score": 0.021824936407409744,
+        "freq": 4,
+        "word_prior": 0.015267175572519083,
+        "char_score": 0.01637803949211906,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.14060983761152132,
+        "conf_gap": 1.1615252342149367
+      }
+    ]
+  },
+  {
+    "page_id": "f89v2",
+    "paragraph_idx": 3,
+    "line_idx": 2,
+    "line_id": "f89v2.17",
+    "token_idx": 0,
+    "raw": "y?eo",
+    "clean": "y?eo",
+    "currier": "a",
+    "prev": "am",
+    "next": "qokeeol",
+    "candidates": []
+  },
+  {
+    "page_id": "f89v2",
+    "paragraph_idx": 3,
+    "line_idx": 2,
+    "line_id": "f89v2.17",
+    "token_idx": 4,
+    "raw": "??yfor",
+    "clean": "??yfor",
+    "currier": "a",
+    "prev": "sair",
+    "next": "opodaiin",
+    "candidates": []
+  },
+  {
+    "page_id": "f89v2",
+    "paragraph_idx": 3,
+    "line_idx": 3,
+    "line_id": "f89v2.18",
+    "token_idx": 4,
+    "raw": "?eey",
+    "clean": "?eey",
+    "currier": "a",
+    "prev": "daiin",
+    "next": "dar",
+    "candidates": [
+      {
+        "form": "keey",
+        "score": 0.039007389035664,
+        "freq": 9,
+        "word_prior": 0.03435114503816794,
+        "char_score": 0.011624247398632583,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.20484739013137684,
+        "conf_gap": 1.024650368245272
+      },
+      {
+        "form": "deey",
+        "score": 0.014655937760850172,
+        "freq": 3,
+        "word_prior": 0.011450381679389313,
+        "char_score": 0.007997527608544561,
+        "context_score": 3.272519021516813e-05,
+        "conf_abs": 0.19991930542345282,
+        "conf_gap": 1.024650368245272
+      }
+    ]
+  },
+  {
+    "page_id": "f89v2",
+    "paragraph_idx": 5,
+    "line_idx": 3,
+    "line_id": "f89v2.26",
+    "token_idx": 0,
+    "raw": "?ds??o",
+    "clean": "?ds??o",
+    "currier": "a",
+    "prev": "chtody",
+    "next": "rady",
+    "candidates": []
+  }
+]
