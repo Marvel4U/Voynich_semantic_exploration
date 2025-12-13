@@ -33,35 +33,35 @@ The transcription was normalized by using the first option, whenever two were pr
 #### Word length analysis
 Word lengths show an unusual distribution compared to reference languages in both Currier A and B texts.
 
-<img src="plots/word_length_stats.png" alt="Word length distributions for Currier A vs B" width="80%">
+<img src="plots/word_length_stats_corrected_currier.png" alt="Word length distributions for Currier A vs B" width="80%">
 
 #### Zipf distribution
 The Zipf curve mostly aligns with what is seen in other languages.
 
-<img src="plots/Zipf_stats.png" alt="Zipf fit check for Voynich tokens" width="80%">
+<img src="plots/Zipf_stats_corrected_currier.png" alt="Zipf fit check for Voynich tokens" width="80%">
 
 #### Letter bigram analysis
 Letter bigrams within Currier A and B are very similar to each other and suggest different but very related language/encoding.
 
-<img src="plots/bigram_heatmap_a_b.png" alt="Word bigram heatmaps A/B" width="80%">
+<img src="plots/bigram_heatmap_a_b_corrected_currier.png" alt="Word bigram heatmaps A/B" width="80%">
 
 Purely based on bigrams, both Currier tests are visually much more similar than any of the 4 reference languages are to each other. (However, this result might be impacted by  total number of letters present in the VMS alphabet.)
 
-<img src="plots/bigram_heatmap_ref_shared.png" alt="Shared vs reference bigram heatmap" width="80%">
+<img src="plots/bigram_heatmap_ref_shared_corrected_currier.png" alt="Shared vs reference bigram heatmap" width="80%">
 
 #### Word start/end bigrams/trigrams
 
 Word-initial and final bigrams differ noticeably between Currier A and B. Unclear yet whether the shapes diverge meaningfully from the reference languages given the smaller alphabet and token counts. Note: reference-language plots show most-common items in descending order, not aligned to the x-axis labels.
 
-<img src="plots/word_start_bigrams_a_b.png" alt="Word-start bigrams, Currier A vs B" width="80%">
+<img src="plots/word_start_bigrams_a_b_corrected_currier.png" alt="Word-start bigrams, Currier A vs B" width="80%">
 
-<img src="plots/word_end_bigrams_a_b.png" alt="Word-end bigrams, Currier A vs B" width="80%">
+<img src="plots/word_end_bigrams_a_b_corrected_currier.png" alt="Word-end bigrams, Currier A vs B" width="80%">
 
 Trigrams show a similar split to the bigram plots, with the known overrepresentation of the -edy ending in Currier B.
 
-<img src="plots/word_start_trigrams_a_b.png" alt="Word-start trigrams, Currier A vs B" width="80%">
+<img src="plots/word_start_trigrams_a_b_corrected_currier.png" alt="Word-start trigrams, Currier A vs B" width="80%">
 
-<img src="plots/word_end_trigrams_a_b.png" alt="Word-end trigrams, Currier A vs B" width="80%">
+<img src="plots/word_end_trigrams_a_b_corrected_currier.png" alt="Word-end trigrams, Currier A vs B" width="80%">
 
 
 ### TF-IDF analysis

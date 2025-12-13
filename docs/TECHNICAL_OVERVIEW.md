@@ -1,7 +1,7 @@
 Voynich transcription loader
 
 - Location: `load_voynich_transcription.py`; data files live in `data/`.
-- Input: `data/IT2a-n.txt` (Eva transcription).
+- Input: `data/RF1b-e.txt` (Eva transcription).
 - Core parse result: `pages` dict `page_id -> {"info": header string, "paragraphs": paragraphs}`.
   - Paragraph = list of line dicts; starts on markers `@P0` or `*P0`, ends on `=Pt` or when `<$>` appears.
   - Line dict = `{"id": "f1r.1", "marker": "@P0", "text": raw_text, "words": words}`.
